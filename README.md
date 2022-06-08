@@ -1,2 +1,4 @@
-# gwputils
-a collection of Java utilities
+gwputils
+========
+
+java utility module
