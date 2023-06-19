@@ -27,8 +27,8 @@ public class RangedIntegerDocument extends PlainDocument {
      * @param max the maximum value
      */
     public RangedIntegerDocument(long min, long max) {
-         this.min = new Long(min);
-         this.max = new Long(max);
+         this.min = min;
+         this.max = max;
     }
 
     // Temp method for jdk1.1
@@ -77,10 +77,10 @@ public class RangedIntegerDocument extends PlainDocument {
     }
 
     public void setMaximum(long p_max) {
-      max = new Long(p_max);
+      max = p_max;
     }
 
     public void setMinimum(long p_min) {
-      min = new Long(p_min);
+      min = p_min;
     }
 }

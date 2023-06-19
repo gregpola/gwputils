@@ -14,7 +14,6 @@ import java.util.Locale;
  *
  * @author Steve Purcell
  * @version $Revision: 1.3 $
- * @see jargs.examples.gnu.OptionTest
  */
 public class CmdLineParser {
 
@@ -137,7 +136,7 @@ public class CmdLineParser {
             protected Object parseValue( String arg, Locale locale )
                 throws IllegalOptionValueException {
                 try {
-                    return new Integer(arg);
+                    return Integer.parseInt(arg);
                 }
                 catch (NumberFormatException e) {
                     throw new IllegalOptionValueException(this, arg);
@@ -155,7 +154,7 @@ public class CmdLineParser {
             protected Object parseValue( String arg, Locale locale )
                 throws IllegalOptionValueException {
                 try {
-                    return new Double(arg);
+                    return Double.parseDouble(arg);
                 }
                 catch (NumberFormatException e) {
                     throw new IllegalOptionValueException(this, arg);
