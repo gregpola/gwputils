@@ -6,11 +6,8 @@
  */
 package com.gwp.util;
 
-import java.awt.Graphics;
-import java.awt.Insets;
-import java.awt.Color;
-import java.awt.Component;
 import javax.swing.border.AbstractBorder;
+import java.awt.*;
 
 
 

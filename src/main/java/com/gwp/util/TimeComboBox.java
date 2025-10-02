@@ -1,7 +1,8 @@
 package com.gwp.util;
 
 // jdk imports
-import javax.swing.JComboBox;
+
+import javax.swing.*;
 
 /**
  * <p>Title:        Avalanche Management Console</p>

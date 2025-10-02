@@ -4,13 +4,10 @@
 package com.gwp.util;
 
 // jdk imports
-import java.awt.Component;
 
-import javax.swing.JButton;
-import javax.swing.JTable;
-import javax.swing.SwingConstants;
-
+import javax.swing.*;
 import javax.swing.table.TableCellRenderer;
+import java.awt.*;
 
 
 

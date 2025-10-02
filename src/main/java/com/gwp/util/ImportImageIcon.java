@@ -1,8 +1,7 @@
 package com.gwp.util;
 
+import javax.swing.*;
 import java.net.URL;
-
-import javax.swing.ImageIcon;
 
 
 

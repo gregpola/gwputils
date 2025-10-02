@@ -1,17 +1,9 @@
 package com.gwp.util;
 
-import java.awt.BorderLayout;
-import java.awt.Cursor;
-import java.awt.Dimension;
-import java.awt.Frame;
-import java.awt.Toolkit;
-import java.awt.Window;
-
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-
-import javax.swing.ImageIcon;
-import javax.swing.JLabel;
 
 
 /**

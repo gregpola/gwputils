@@ -8,8 +8,8 @@ package com.gwp.util;
  * @version 1.0
  */
 
-import java.io.File;
 import javax.swing.filechooser.FileFilter;
+import java.io.File;
 
 
 public class ApplicationFileFilter extends FileFilter {

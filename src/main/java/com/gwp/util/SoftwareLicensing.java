@@ -1,10 +1,3 @@
-/**
- * SoftwareLicensing.java
- * Created on Oct 26, 2011
- * 
- * Copyright (c) 2009-2010 Greg W. Pola. All rights reserved.
- * @author Greg
- */
 package com.gwp.util;
 
 import org.apache.commons.codec.digest.DigestUtils;

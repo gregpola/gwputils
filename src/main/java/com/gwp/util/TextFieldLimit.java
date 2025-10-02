@@ -1,6 +1,8 @@
 package com.gwp.util;
 
-import javax.swing.text.*;
+import javax.swing.text.AttributeSet;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.PlainDocument;
 
 public class TextFieldLimit extends PlainDocument {
     private int limit;

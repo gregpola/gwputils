@@ -5,28 +5,18 @@
 package com.gwp.util;
 
 // JDK Imports
-import java.awt.FlowLayout;
-import java.awt.SystemColor;
-import java.awt.Toolkit;
 
+import javax.swing.*;
+import javax.swing.event.DocumentListener;
+import javax.swing.text.AttributeSet;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.PlainDocument;
+import java.awt.*;
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-
 import java.util.ArrayList;
-
-import javax.swing.BorderFactory;
-import javax.swing.JPanel;
-import javax.swing.JTextField;
-import javax.swing.SwingConstants;
-import javax.swing.UIManager;
-
-import javax.swing.event.DocumentListener;
-
-import javax.swing.text.AttributeSet;
-import javax.swing.text.BadLocationException;
-import javax.swing.text.PlainDocument;
 
 // Wavelink imports
 

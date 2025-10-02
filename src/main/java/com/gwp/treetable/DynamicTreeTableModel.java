@@ -38,9 +38,9 @@
 package com.gwp.treetable;
 
 
-
-import java.lang.reflect.*;
-import javax.swing.tree.*;
+import javax.swing.tree.TreeNode;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Method;
 
 /**
  * An implementation of TreeTableModel that uses reflection to answer

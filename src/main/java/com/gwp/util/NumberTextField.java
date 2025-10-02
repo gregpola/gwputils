@@ -5,17 +5,15 @@
 package com.gwp.util;
 
 // jdk imports
-import java.awt.Toolkit;
 
-import java.awt.event.FocusAdapter;
-import java.awt.event.FocusEvent;
-
-import javax.swing.JTextField;
-
+import javax.swing.*;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;
 import javax.swing.text.PlainDocument;
+import java.awt.*;
+import java.awt.event.FocusAdapter;
+import java.awt.event.FocusEvent;
 
 
 public class NumberTextField

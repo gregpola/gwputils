@@ -5,11 +5,11 @@
 package com.gwp.util;
 
 // JDK imports
-import java.awt.Toolkit;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
+import java.awt.*;
 
 /**
  * Document that displays a time value in the format

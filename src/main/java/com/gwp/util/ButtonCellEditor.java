@@ -4,17 +4,11 @@
 package com.gwp.util;
 
 // jdk imports
-import java.awt.Component;
 
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import javax.swing.Action;
-import javax.swing.DefaultCellEditor;
-import javax.swing.JButton;
-import javax.swing.JCheckBox;
-import javax.swing.JTable;
-import javax.swing.SwingConstants;
 
 
 

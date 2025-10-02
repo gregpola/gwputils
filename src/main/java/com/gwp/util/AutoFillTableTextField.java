@@ -9,15 +9,13 @@
 package com.gwp.util;
 
 // jdk imports
-import java.awt.event.FocusEvent;
-import java.awt.event.FocusListener;
 
-import javax.swing.JTable;
-import javax.swing.JTextField;
-
+import javax.swing.*;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
 
 
 

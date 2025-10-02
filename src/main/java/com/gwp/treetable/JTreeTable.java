@@ -38,17 +38,15 @@
 package com.gwp.treetable;
 
 
-
-import java.awt.*;
-
 import javax.swing.*;
-import javax.swing.border.*;
-import javax.swing.event.*;
+import javax.swing.border.Border;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+import javax.swing.table.TableCellRenderer;
 import javax.swing.tree.*;
-import javax.swing.table.*;
-
-import java.awt.event.*;
-
+import java.awt.*;
+import java.awt.event.InputEvent;
+import java.awt.event.MouseEvent;
 import java.util.EventObject;
 
 /**

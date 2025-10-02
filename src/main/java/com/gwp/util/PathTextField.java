@@ -5,19 +5,14 @@
 package com.gwp.util;
 
 
-import java.awt.Insets;
-
+import javax.swing.*;
+import javax.swing.filechooser.FileFilter;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-
 import java.io.File;
-
-import javax.swing.JFileChooser;
-import javax.swing.JTextField;
-
-import javax.swing.filechooser.FileFilter;
 
 
 /**

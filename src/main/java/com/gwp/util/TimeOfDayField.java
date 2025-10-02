@@ -5,35 +5,18 @@
 package com.gwp.util;
 
 // JDK imports
-import java.awt.Color;
-import java.awt.Insets;
-import java.awt.SystemColor;
-import java.awt.Toolkit;
 
-import java.awt.event.FocusAdapter;
-import java.awt.event.FocusEvent;
-import java.awt.event.InputEvent;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
-
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-
-import java.util.Calendar;
-import java.util.Date;
-
-import javax.swing.BoxLayout;
-import javax.swing.JPanel;
-import javax.swing.JTextField;
-import javax.swing.SwingConstants;
-import javax.swing.UIManager;
-
+import javax.swing.*;
 import javax.swing.event.DocumentListener;
-
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
+import java.awt.*;
+import java.awt.event.*;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 
 
 

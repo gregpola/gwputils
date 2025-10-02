@@ -1,13 +1,7 @@
 package com.gwp.util;
 
-import java.awt.Button;
-import java.awt.Component;
-import java.awt.Container;
-import java.awt.Dimension;
-import java.awt.Insets;
-import java.awt.LayoutManager;
-
-import javax.swing.AbstractButton;
+import javax.swing.*;
+import java.awt.*;
 
 
 public class ButtonLayout

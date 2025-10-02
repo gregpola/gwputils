@@ -11,13 +11,10 @@ package com.gwp.util;
 
 
 // jdk imports
-import java.awt.Component;
 
-import javax.swing.JTable;
-import javax.swing.SwingConstants;
-import javax.swing.UIManager;
-
+import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
+import java.awt.*;
 
 
 

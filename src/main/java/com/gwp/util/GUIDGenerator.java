@@ -3,16 +3,10 @@
  */
 package com.gwp.util;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.util.UUID;
-
 import com.sun.security.auth.module.NTSystem;
+
+import java.io.*;
+import java.util.UUID;
 
 /**
  * A class that generates a consistent GUID for the installation machine.

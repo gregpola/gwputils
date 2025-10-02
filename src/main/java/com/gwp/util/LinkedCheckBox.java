@@ -11,15 +11,11 @@ package com.gwp.util;
 
 
 // jdk imports
-import java.awt.Rectangle;
 
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
-
-import javax.swing.Action;
-import javax.swing.Icon;
-import javax.swing.JCheckBox;
-import javax.swing.JComponent;
 
 
 public class LinkedCheckBox
