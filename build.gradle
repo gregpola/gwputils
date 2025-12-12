@@ -12,7 +12,10 @@ test {
 }
 
 version = '2.0.0'
-archivesBaseName = 'gwputils'
+
+base {
+    archivesName = 'gwputils'
+}
 
 dependencies {
     runtimeOnly files('lib/failureaccess-1.0.1.jar')
